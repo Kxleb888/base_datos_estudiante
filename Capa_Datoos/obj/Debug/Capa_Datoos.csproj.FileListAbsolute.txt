@@ -1,0 +1,9 @@
+C:\Users\Alumno\Desktop\app\Capa_Datoos\bin\Debug\Capa_Datoos.dll
+C:\Users\Alumno\Desktop\app\Capa_Datoos\bin\Debug\Capa_Datoos.pdb
+C:\Users\Alumno\Desktop\app\Capa_Datoos\bin\Debug\Capa_Entidadd.dll
+C:\Users\Alumno\Desktop\app\Capa_Datoos\bin\Debug\Capa_Entidadd.pdb
+C:\Users\Alumno\Desktop\app\Capa_Datoos\obj\Debug\Capa_Datoos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\app\Capa_Datoos\obj\Debug\Capa_Datoos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\app\Capa_Datoos\obj\Debug\Capa_Datoos.csproj.CopyComplete
+C:\Users\Alumno\Desktop\app\Capa_Datoos\obj\Debug\Capa_Datoos.dll
+C:\Users\Alumno\Desktop\app\Capa_Datoos\obj\Debug\Capa_Datoos.pdb

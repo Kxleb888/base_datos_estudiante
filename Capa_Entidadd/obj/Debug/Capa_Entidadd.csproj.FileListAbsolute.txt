@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\app\Capa_Entidadd\bin\Debug\Capa_Entidadd.dll
+C:\Users\Alumno\Desktop\app\Capa_Entidadd\bin\Debug\Capa_Entidadd.pdb
+C:\Users\Alumno\Desktop\app\Capa_Entidadd\obj\Debug\Capa_Entidadd.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\app\Capa_Entidadd\obj\Debug\Capa_Entidadd.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\app\Capa_Entidadd\obj\Debug\Capa_Entidadd.dll
+C:\Users\Alumno\Desktop\app\Capa_Entidadd\obj\Debug\Capa_Entidadd.pdb
